@@ -3,11 +3,11 @@ package com.chhornseyha.__CHHORN_SEYHA_SPRING_HOMEWORK003.constant;
 public class MessageConstant {
 
     public static class Attendees{
-       public final static String CREATES_SUCCESSFULLY = "The student has been successfully added.";
-        public final static String UPDATED_SUCCESSFULLY = "The student has been successfully updated.";
-        public final static String DELETED_SUCCESSFULLY = "The student has been deleted.";
-        public final static String GET_ALL_ATTENDEES_SUCCESSFULLY = "All students have been successfully fetched.";
-        public final static String GET_ATTENDEES_BY_ID_SUCCESSFULLY = "The student has been successfully founded.";
+       public final static String CREATES_SUCCESSFULLY = "The attendee has been successfully added.";
+        public final static String UPDATED_SUCCESSFULLY = "The attendee has been successfully updated.";
+        public final static String DELETED_SUCCESSFULLY = "The attendee has been deleted.";
+        public final static String GET_ALL_ATTENDEES_SUCCESSFULLY = "All attendees have been successfully fetched.";
+        public final static String GET_ATTENDEES_BY_ID_SUCCESSFULLY = "The attendee has been successfully founded.";
     }
     public static class Event{
         public final static String CREATES_SUCCESSFULLY = "The events has been successfully added.";
